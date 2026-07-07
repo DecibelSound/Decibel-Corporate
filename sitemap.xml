@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://corporate.decibelsound.nl/</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://corporate.decibelsound.nl/nl/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://corporate.decibelsound.nl/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://corporate.decibelsound.nl/" />
+    <loc>https://decibelcorporate.nl/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://decibelcorporate.nl/nl/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://decibelcorporate.nl/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://decibelcorporate.nl/" />
   </url>
   <url>
-    <loc>https://corporate.decibelsound.nl/nl/</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://corporate.decibelsound.nl/nl/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://corporate.decibelsound.nl/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://corporate.decibelsound.nl/" />
+    <loc>https://decibelcorporate.nl/nl/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://decibelcorporate.nl/nl/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://decibelcorporate.nl/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://decibelcorporate.nl/" />
   </url>
   <url>
-    <loc>https://corporate.decibelsound.nl/en/</loc>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://corporate.decibelsound.nl/nl/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://corporate.decibelsound.nl/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://corporate.decibelsound.nl/" />
+    <loc>https://decibelcorporate.nl/en/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://decibelcorporate.nl/nl/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://decibelcorporate.nl/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://decibelcorporate.nl/" />
   </url>
 </urlset>
