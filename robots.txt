@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://corporate.decibelsound.nl/sitemap.xml
+Sitemap: https://decibelcorporate.nl/sitemap.xml
